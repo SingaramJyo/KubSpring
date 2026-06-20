@@ -13,6 +13,6 @@ public class HealthController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello World from Spring Boot on Kubernetes!";
+        return "Hello World from Spring Boot on Test Anu and Jyo Kubernetes!";
     }
 }
